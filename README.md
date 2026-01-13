@@ -127,6 +127,7 @@ pip install -r requirements.txt
 ```bash
 python src/train_models.py
 ```
+This step trains multiple models while monitoring their energy consumption using CodeCarbon.
 
 ### 4️⃣ Launch the Dashboard
 ```bash
