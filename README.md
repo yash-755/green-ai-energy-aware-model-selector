@@ -114,7 +114,7 @@ The Streamlit dashboard provides:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/green-ai-energy-aware-model-selector.git
+git clone https://github.com/yash-755/green-ai-energy-aware-model-selector.git
 cd green-ai-energy-aware-model-selector
 ```
 
