@@ -184,7 +184,7 @@ This project follows **Green AI principles**, focusing on reducing unnecessary c
 
 ---
 
-## 👤 Author
+## 👤 Author 
 **Yash Uttam**  
 
 ---
