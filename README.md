@@ -7,7 +7,7 @@ This project focuses on **Green AI**, where the goal is to build models that are
 The Energy-Aware Model Selector automatically evaluates multiple machine learning models and recommends the best one by balancing **performance and energy usage**.
 
 ---
-
+ 
 ## 🎯 Problem Statement
 Modern ML pipelines often choose complex models that:
 - Consume high computational power
