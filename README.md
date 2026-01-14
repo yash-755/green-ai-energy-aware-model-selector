@@ -107,7 +107,7 @@ The Streamlit dashboard provides:
 - Model-wise performance table
 - Highlighted recommended model
 - Energy usage insights
-
+ 
 ---
 
 ## 🚀 How to Run the Project
