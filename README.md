@@ -94,7 +94,7 @@ A weighted scoring approach is used:
 ```
 Final Score = α × Performance − β × Energy Consumption
 ```
-
+ 
 Where:
 - **α** controls importance of accuracy
 - **β** controls importance of energy efficiency
