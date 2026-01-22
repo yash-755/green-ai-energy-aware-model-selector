@@ -16,7 +16,7 @@ Modern ML pipelines often choose complex models that:
 
 **Core Question:**  
 > How can we select a machine learning model that provides good accuracy while minimizing energy consumption?
-
+ 
 ---
 
 ## 🧠 Proposed Solution
