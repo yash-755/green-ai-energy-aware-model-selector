@@ -5,7 +5,7 @@ Machine learning models are usually selected based only on accuracy, while their
 This project focuses on **Green AI**, where the goal is to build models that are not only accurate but also **energy efficient and sustainable**.
 
 The Energy-Aware Model Selector automatically evaluates multiple machine learning models and recommends the best one by balancing **performance and energy usage**.
- 
+
 ---
  
 ## 🎯 Problem Statement
