@@ -166,7 +166,6 @@ green-ai-energy-aware-model-selector/
 ├── .gitignore
 ├── README.md
 └── LICENSE 
-
 ```
 
 ---
