@@ -1,0 +1,15 @@
+# Core numerical & data handling
+numpy
+pandas
+
+# Machine Learning models & evaluation
+scikit-learn
+xgboost
+
+# Energy and system monitoring
+codecarbon
+psutil
+
+# Visualization & dashboard
+matplotlib
+streamlit
